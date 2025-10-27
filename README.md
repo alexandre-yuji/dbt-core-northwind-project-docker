@@ -35,8 +35,8 @@ Antes de começar, certifique-se de ter os seguintes softwares instalados em seu
 Primeiro, clone este repositório para o seu ambiente local usando Git. Abra um terminal e execute o seguinte comando:
 
 ```sh
-git clone git@github.com:lvgalvao/dbt-core-northwind-project.git
-cd dbt-core-northwind-project
+git clone https://github.com/alexandre-yuji/dbt-core-northwind-project-docker.git
+cd dbt-core-northwind-project-docker
 ```
 
 ### 2. Executar os Contêineres Docker
